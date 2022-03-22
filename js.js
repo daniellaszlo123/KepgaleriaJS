@@ -4,23 +4,23 @@ function ID(elem) {
 }
 var kepek=[
     {
-        eleresiUt:"kepek/_DSC7025.jpg",
+        eleresiUt:"kepek/kep_01.jpg",
         cim:"Kép1",
     },
     {
-        eleresiUt:"kepek/_DSC7365.jpg",
+        eleresiUt:"kepek/kep_02.jpg",
         cim:"Kép2",
     },
     {
-        eleresiUt:"kepek/_DSC7371_1.jpg",
+        eleresiUt:"kepek/kep_03.jpg",
         cim:"Kép3",
     },
     {
-        eleresiUt:"kepek/_DSC7444.jpg",
+        eleresiUt:"kepek/kep_04.jpg",
         cim:"Kép4",
     },
     {
-        eleresiUt:"kepek/_DSC7515.jpg",
+        eleresiUt:"kepek/kep_05.jpg",
         cim:"Kép5",
     },
 ];
